@@ -67,3 +67,15 @@ python manage.py createsuperuser
 # Start server
 python manage.py runserver
 # Placeholder for README.md
+
+
+
+<img width="1620" height="722" alt="image" src="https://github.com/user-attachments/assets/97b5f27e-9fd1-49b6-95a8-8d5f19db228c" />
+
+
+<img width="1655" height="788" alt="image" src="https://github.com/user-attachments/assets/83416b2d-bb01-45f9-b0c0-da97c986736b" />
+
+
+
+<img width="1888" height="687" alt="image" src="https://github.com/user-attachments/assets/62010493-e596-4752-a5b4-c3fb6edd4eec" />
+
